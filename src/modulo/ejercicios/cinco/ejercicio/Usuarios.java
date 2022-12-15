@@ -7,6 +7,7 @@ import java.util.Scanner;
 
 public class Usuarios {
 
+    // Ejercicio
     public String fichero = "usuarios.txt";
 
     // extraer datos del fichero y agregarlos en un arraylist

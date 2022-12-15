@@ -4,6 +4,7 @@ import java.util.ArrayList;
 
 public class UsuarioEnMemoria {
 
+    // Ejercicio
     ArrayList<Usuario> usuarios = new ArrayList<>();
 
     // listar usuarios

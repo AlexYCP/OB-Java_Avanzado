@@ -1,6 +1,6 @@
 package modulo.ejercicios.cinco.argumentos;
 
-public class Resultado {
+public class Argumentos {
 
     public static void main(String[] args) {
 

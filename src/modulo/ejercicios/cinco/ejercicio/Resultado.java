@@ -4,6 +4,7 @@ public class Resultado {
 
     public static void main(String[] args) {
 
+        // Ejercicio
         // creo la información del usuario
         Usuario usuario = new Usuario();
         usuario.nombre = "Yosimar";
